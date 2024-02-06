@@ -1,6 +1,6 @@
 # QR-code-generator
-# This is my first Git-Repository
-# Author - Rishav Guha.
+This is my first Git-Repository
+ Author - Rishav Guha.
 
 
 import qrcode
